@@ -5,7 +5,7 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-:root {
+ :root {
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -6353,6 +6353,38 @@ a.close.disabled {
 
 .align-text-top {
   vertical-align: text-top !important;
+}
+.bg-s1
+{
+  background-color: #C8EF91;
+}
+.bg-s2
+{
+  background-color: #99E697;
+}
+.bg-s3
+{
+  background-color:#65DBA2;
+}
+.bg-s4
+{
+  background-color:#0BCEAF;
+}
+.bg-s5
+{
+  background-color: #00BCC8;
+}
+.bg-s6
+{
+  background-color: #00A6DC;
+}
+.bg-s7
+{
+  background-color: #008CE3;
+}
+.bg-s8
+{
+  background-color: #7645AF;
 }
 
 .bg-primary {
